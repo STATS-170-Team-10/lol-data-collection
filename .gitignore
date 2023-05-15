@@ -1,0 +1,8 @@
+# Files
+config.py
+convert.py
+
+
+# Folders
+__pycache__/
+data/
